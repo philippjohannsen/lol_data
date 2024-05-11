@@ -79,7 +79,7 @@ target/
 /data/
 
 # exclude secrets
-/src/data/drive_files/credentials.json
+/src/data/drive_files/
 
 # Mac OS-specific storage files
 .DS_Store
